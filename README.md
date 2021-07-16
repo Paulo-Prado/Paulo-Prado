@@ -1,8 +1,10 @@
 ## Hi there 👋
-### Um jovem estudante buscando aprender cada vez mais!
+### Um jovem buscando aprender cada vez mais!
 
-Estudante no 1º ano do curso Técnico em Informática do Instituto Federal Goiano
+Estudante do 2º ano do curso Técnico em Informática integrado ao Ensino Médio do Instituto Federal Goiano
 
-- Focado em aprender cada vez mais
 - Sempre pronto, seja para ajudar ou para aprender
-- Aprendendo Python e JavaScript
+- Aprendendo Python, HTML, CSS e JavaScript
+- Buscando conhecer novas tecnologias
+
+"O segredo do sucesso é a constância do propósito" - Benjamin Disraeli
